@@ -29,6 +29,10 @@ scipy==1.9.0
 
 ## Reference
 
+- https://github.com/google/jax
+- https://github.com/google/flax
+- https://github.com/open-mmlab/mmediting
+- https://github.com/rwightman/pytorch-image-models
 - https://github.com/tesseract-ocr/tesseract
 - https://github.com/madmaze/pytesseract
 - https://yunwoong.tistory.com/51
