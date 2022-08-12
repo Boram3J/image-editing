@@ -22,6 +22,7 @@ torchvision==0.13.1+cu113
 timm~=0.6.5
 imutils==0.5.4
 scipy==1.9.0
+googletrans==4.0.0-rc1
 ```
 
 ## Package
